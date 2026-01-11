@@ -1,0 +1,11 @@
+{
+  "name": "simulador",
+  "version-string": "0.1",
+  "description": "Proyecto de implementacion de CMake, vcpkg, GLFW, GLAD, GLM; para simular gravedad",
+
+  "dependencies": [
+    "glfw3",
+    "glad",
+    "glm"
+  ]
+}

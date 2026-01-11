@@ -1,0 +1,9 @@
+{
+    "cmake.configureSettings": {
+        "CMAKE_TOOLCHAIN_FILE": "${workspaceFolder}/vcpkg/scripts/buildsystems/vcpkg.cmake",
+        "VCPKG_TARGET_TRIPLET": "x64-mingw-static"
+    },
+    "cmake.generator": "MinGW Makefiles",
+    "cmake.makeProgram": "C:/mingw64/bin/mingw32-make.exe",
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}
