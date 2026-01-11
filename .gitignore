@@ -7,7 +7,6 @@ vcpkg_installed/
 vcpkg/
 !vcpkg/
 
-
 .vscode/
 
 CMakeCache.txt
